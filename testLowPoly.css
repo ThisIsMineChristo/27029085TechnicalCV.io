@@ -127,7 +127,7 @@ div.nav, div.skills
 .fa{
   margin-top:20px;
   margin-left: 10%;
-  display: block;
+  display: inline-block;
   height: 40px;
   width:20%;
 }
